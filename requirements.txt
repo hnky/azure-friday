@@ -1,0 +1,9 @@
+azure-cognitiveservices-vision-computervision 
+azure-cognitiveservices-vision-customvision
+azure-cognitiveservices-vision-face
+azure-cognitiveservices-speech
+
+pillow
+numpy
+matplotlib
+onnxruntime

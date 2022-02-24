@@ -1,4 +1,4 @@
-# Building accessible experiences using AI
+# Azure Friday
 AI can be a game changer for people with disabilities. Already we’re witnessing this as people with disabilities expand their use of computers to hear, see and reason with impressive accuracy.
 
 At Microsoft we’ve been putting to work stronger solutions such as real-time speech-to-text transcription, visual recognition services and predictive text functionality. AI advances like these offer enormous potential by enabling people with vision, hearing, cognitive, learning, mobility disabilities and mental health conditions do more in three specific scenarios: employment, modern life and human connection.
