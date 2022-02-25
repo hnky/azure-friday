@@ -11,4 +11,11 @@ Join this session and learn how you can help building the future of disability i
 
 
 ### Resources
+- [Cognitive Services in Containers](https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/how-to-use-cognitive-services-and-containers/ba-p/2113684)
+- [Face API](https://docs.microsoft.com/azure/cognitive-services/face/)
+- [Computer Vision](https://docs.microsoft.com/azure/cognitive-services/computer-vision/)
+- [Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/)
+- [Azure Media Service](https://docs.microsoft.com/azure/media-services/)
+- [Azure Video Analyzer for Media](https://docs.microsoft.com/azure/azure-video-analyzer/)
 - [Inclusive and Accessible Events](https://aka.ms/accessible-events-video)
+- [Tech A11y Summit](https://www.techa11y.dev/)
